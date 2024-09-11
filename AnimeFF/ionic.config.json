@@ -1,0 +1,7 @@
+{
+  "name": "AnimeFF",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
